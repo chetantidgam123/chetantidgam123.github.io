@@ -19,6 +19,9 @@ const projects = [
     stacks: [
       // <SiReact className={styles.stackIcon} />,
       // <SiChakraui className={styles.stackIcon} />,
+      <p className={styles.stackIcon}><SiReact />Express</p>,
+      <p className={styles.stackIcon}><SiReact />Node</p>,
+      <p className={styles.stackIcon}><SiReact />MongoDB</p>,
       <p className={styles.stackIcon}><SiReact />React Js</p>,
       <p className={styles.stackIcon}><SiChakraui/>Chakra UI</p>,
       
